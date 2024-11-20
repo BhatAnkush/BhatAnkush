@@ -1,7 +1,7 @@
 #  Hi,I'm Ankush Ananth Bhat 👋
 ## 🌱 I’m currently  Learning
 
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React",width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="java" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="python" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="java" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/>
 
 
 # My Stats
