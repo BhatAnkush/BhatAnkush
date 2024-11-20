@@ -7,7 +7,7 @@
 # My Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BhatAnkush&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D)
 
-<h2 align="center"><strong>Looking for Internship :eyes:</strong></h2>
+<h2 align="center"><strong>Looking for Full Time Roles :eyes:</strong></h2>
 
 
 <p align="center">
