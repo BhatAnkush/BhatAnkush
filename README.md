@@ -1,25 +1,12 @@
 #  Hi,I'm Ankush Ananth Bhat 👋
 ## 🌱 I’m currently  Learning
 
- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> 
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>
- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50" height="50"/> 
- <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="50" height="50"/> 
- <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="50" height="50"/> 
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/> 
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/> 
 
 # My Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BhatAnkush&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D)
 # I have worked on
- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> 
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>
- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50" height="50"/> 
- <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="50" height="50"/> 
- <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="50" height="50"/> 
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="My SQL" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JS" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="My SQL" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
 
 <h2 align="center"><strong>Looking for Full Time Roles :eyes:</strong></h2>
 
