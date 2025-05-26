@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<a href="https://bhatankush.github.io/" target="blank">
+<a href="https://bhatankush.onrender.com/" target="blank">
   <img align="center" alt="portfolio" src="https://img.icons8.com/fluent/48/000000/resume-website.png" width="40px" height="40px"/>
   </a>&nbsp; &nbsp;
 
