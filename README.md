@@ -1,7 +1,7 @@
 #  Hi,I'm Ankush Ananth Bhat 👋
 ## 🌱 I’m currently  Learning
 
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="50" height="50"/> 
+ <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="50" height="50"/> 
 # My Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BhatAnkush&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D)
 # I have worked on
