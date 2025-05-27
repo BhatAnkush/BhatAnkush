@@ -45,6 +45,10 @@
 <img src="https://skillicons.dev/icons?i=gcp" width="80" height="80"/>
 <br><b>Google Cloud</b>
 </td>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=docker" width="80" height="80"/>
+<br><b>Docker</b>
+</td>
 </tr>
 </table>
 </div>
@@ -56,13 +60,13 @@
 <div align="center">
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,vite" />
 
 ### Tools & Technologies  
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase,postgresql,postman" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,postgresql,postman" />
 
 ### Cloud & Others
-<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=gcp,git,github,gitlab,vscode,androidstudio,linux,figma" />
 
 </div>
 
