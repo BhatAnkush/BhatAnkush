@@ -100,24 +100,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```javascript
-const ankush = {
-    currentFocus: ["Frontend Development", "Full Stack Learning"],
-    technologies: ["React.js", "Node.js", "JavaScript", "Python"],
-    currentlyLearning: ["Google Cloud Platform", "Advanced React Patterns"],
-    lookingFor: "Full-time Frontend Developer opportunities",
-    funFact: "I love turning ideas into interactive experiences!"
-};
-```
-
-</div>
-
----
-
 ## 🔗 Let's Connect!
 
 <div align="center">
