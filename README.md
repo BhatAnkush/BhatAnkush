@@ -60,7 +60,7 @@
 <div align="center">
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,javascript,html,css,vite,java,python" />
 
 ### Tools & Technologies  
 <img src="https://skillicons.dev/icons?i=mysql,firebase,postgresql,postman" />
